@@ -147,6 +147,13 @@ input, select, textarea {
 		color: #212931;
 	}
 
+	.profile-pic {
+		width: 350px; /* Adjust as needed */
+		height: auto;
+		border-radius: 50px; /* Rounds the corners */
+	}
+	
+
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
 		font-weight: 300;
@@ -3386,7 +3393,7 @@ input, select, textarea {
 				}
 
 		#intro h1 {
-			font-size: 5rem;
+			font-size: 4rem;
 			line-height: 1;
 		}
 
